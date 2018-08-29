@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe Multiplayer
+TicTacToe for two players.
