@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe implemented using Java
+TicTacToe Multiplayer
